@@ -3,8 +3,21 @@ const translations = {
     "meta.title": "4leafx",
     "nav.games": "Games",
     "nav.about": "About",
+    "about.title": "關於我們",
+    "about.subtitle": "",
+    "about.body":
+      "在 4leafx，我們從稀有的四葉草汲取靈感——象徵信念、希望、愛與幸運。就像找到它一樣，我們相信最好的想法應該特別、意想不到，且值得珍藏。",
+    "about.body2":
+      "我們是一個專注於 3D 列印設計、3D 列印與遊戲設計的創意工作室，將創新與充滿玩心的收藏世界結合。我們希望把點子化為實體作品——無論是獨特的列印、實驗型作品或互動體驗。",
+    "about.body3":
+      "我們的 YouTube 頻道帶你走進幕後，展示概念如何從想像變成現實。我們一路分享所學、探索新技術，並邀請社群一同塑造下一步。",
+    "about.body4":
+      "4leafx 不只是製作——更是在創意、好奇心與機會交會時，找尋那份稀有的瞬間。",
     "about.title": "About us",
     "about.subtitle": "",
+  "zhAbout": {
+  "deAbout": {
+  "esAbout": {
     "about.body":
       "At 4leafx, we take inspiration from the rare four-leaf clover - a symbol of faith, hope, love, and luck. Just like finding one, we believe the best ideas feel special, unexpected, and worth holding onto.",
     "about.body2":
