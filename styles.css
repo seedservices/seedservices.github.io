@@ -101,15 +101,15 @@ main {
 }
 
 .logo {
-  width: 42px;
-  height: 42px;
+  width: 56px;
+  height: 56px;
   display: block;
   transform: translateY(3px);
 }
 
 .logo-wordmark {
-  font-family: "Fraunces", serif;
-  font-size: 1.2rem;
+  font-family: "Space Grotesk", "Noto Sans TC", "Segoe UI", sans-serif;
+  font-size: 1.3rem;
   line-height: 1;
 }
 
