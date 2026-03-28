@@ -15,7 +15,7 @@ const translations = {
     "hero.eyebrow": "Independent studio",
     "hero.title": "Welcome to the 4Leafx Workshop.",
     "hero.lede":
-      "4leafx blends playful worlds, collectible prints, and teaching moments. Explore our releases, watch behind-the-scenes builds, and join the community shaping our next drops.",
+      "4leafx is a creative studio exploring 3D printing and game design, focused on making distinctive, collectible ideas come to life. We share our process on YouTube and build alongside a community that helps shape whatâ€™s next.",
     "hero.ctaPrimary": "See the games",
     "hero.ctaSecondary": "Join the community",
     "hero.card.pill": "Now in development",
@@ -29,7 +29,14 @@ const translations = {
     "games.subtitle": "Featured links for players, press, and community hubs.",
     "about.title": "About us",
     "about.subtitle": "Work in progress.",
-    "about.body": "Work in progress.",
+    "about.body":
+      "At 4leafx, we take inspiration from the rare four-leaf cloverâ€”a symbol of faith, hope, love, and luck. Just like finding one, we believe the best ideas feel special, unexpected, and worth holding onto.",
+    "about.body2":
+      "Weâ€™re a creative studio focused on 3D print design, 3D printing, and game design, blending innovation with playful, collectible worlds. Through our work, we aim to turn ideas into tangible creationsâ€”whether thatâ€™s unique prints, experimental builds, or interactive experiences.",
+    "about.body3":
+      "Our YouTube channel brings you behind the scenes of that process, showcasing how concepts evolve from imagination to reality. Along the way, we share what we learn, explore new techniques, and invite our community to be part of shaping what comes next.",
+    "about.body4":
+      "4leafx is about more than makingâ€”itâ€™s about discovering those rare moments where creativity, curiosity, and opportunity come together.",
     "games.card1.title": "Main Game Portal",
     "games.card1.body": "Primary landing page for all titles, updates, and store links.",
     "games.card1.cta": "Open the portal",
