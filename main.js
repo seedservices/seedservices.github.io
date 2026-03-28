@@ -17,7 +17,6 @@ const translations = {
     "about.title": "About us",
     "about.subtitle": "Work in progress.",
     "about.body": "Work in progress.",
-    "nav.prints": "3D Prints",
     "nav.media": "Media",
     "nav.studios": "5dudes",
     "nav.community": "Community",
@@ -274,6 +273,15 @@ const translations = {
     "hub.footer.mahjong": "麻雀",
     "hub.footer.bigTwo": "鋤大D",
   },
+    "about.body":
+      "在 4leafx，我們從稀有的四葉草汲取靈感——象徵信念、希望、愛與幸運。就像找到它一樣，我們相信最好的想法應該特別、意想不到，且值得珍藏。",
+    "about.body2":
+      "我們是一個專注於 3D 列印設計、3D 列印與遊戲設計的創意工作室，將創新與充滿玩心的收藏世界結合。我們希望把點子化為實體作品——無論是獨特的列印、實驗型作品或互動體驗。",
+    "about.body3":
+      "我們的 YouTube 頻道帶你走進幕後，展示概念如何從想像變成現實。我們一路分享所學、探索新技術，並邀請社群一同塑造下一步。",
+    "about.body4":
+      "4leafx 不只是製作——更是在創意、好奇心與機會交會時，找尋那份稀有的瞬間。",
+  },
   "de": {
     "meta.title": "4leafx",
     "nav.about": "Über uns",
@@ -384,6 +392,15 @@ const translations = {
     "hub.footer.home": "Start",
     "hub.footer.mahjong": "Mahjong",
     "hub.footer.bigTwo": "Big Two",
+  },
+    "about.body":
+      "Bei 4leafx lassen wir uns vom seltenen vierblättrigen Kleeblatt inspirieren - ein Symbol für Glauben, Hoffnung, Liebe und Glück. Wie beim Finden glauben wir, dass die besten Ideen besonders, unerwartet und bewahrenswert sind.",
+    "about.body2":
+      "Wir sind ein kreatives Studio für 3D-Druckdesign, 3D-Druck und Game Design und verbinden Innovation mit verspielten, sammelbaren Welten. Unser Ziel ist es, Ideen in greifbare Kreationen zu verwandeln - ob einzigartige Prints, experimentelle Builds oder interaktive Erlebnisse.",
+    "about.body3":
+      "Unser YouTube-Kanal zeigt den Prozess hinter den Kulissen und wie Konzepte von der Vorstellung zur Realität werden. Dabei teilen wir unser Lernen, erkunden neue Techniken und laden die Community ein, das Nächste mitzugestalten.",
+    "about.body4":
+      "4leafx steht für mehr als nur Machen - es geht um diese seltenen Momente, in denen Kreativität, Neugier und Gelegenheit zusammenkommen.",
   },
   "es": {
     "meta.title": "4leafx",
@@ -496,6 +513,15 @@ const translations = {
     "hub.footer.mahjong": "Mahjong",
     "hub.footer.bigTwo": "Big Two",
   },
+    "about.body":
+      "En 4leafx nos inspiramos en el raro trébol de cuatro hojas, símbolo de fe, esperanza, amor y suerte. Igual que encontrarlo, creemos que las mejores ideas se sienten especiales, inesperadas y dignas de conservar.",
+    "about.body2":
+      "Somos un estudio creativo centrado en diseño e impresión 3D y en diseño de juegos, combinando innovación con mundos lúdicos y coleccionables. Buscamos convertir ideas en creaciones tangibles, ya sean impresiones únicas, builds experimentales o experiencias interactivas.",
+    "about.body3":
+      "Nuestro canal de YouTube te lleva detrás de cámaras y muestra cómo los conceptos pasan de la imaginación a la realidad. Compartimos lo que aprendemos, exploramos nuevas técnicas e invitamos a la comunidad a dar forma a lo que viene.",
+    "about.body4":
+      "4leafx es más que fabricar: es descubrir esos momentos raros en los que se unen creatividad, curiosidad y oportunidad.",
+  },
   "ja": {
     "meta.title": "4leafx",
     "nav.about": "私たちについて",
@@ -605,6 +631,14 @@ const translations = {
     "hub.footer.mahjong": "Mahjong",
     "hub.footer.bigTwo": "Big Two",
   },
+    "about.body":
+      "4leafxは、信念・希望・愛・幸運の象徴である希少な四つ葉のクローバーに着想を得ています。それを見つけるように、最高のアイデアは特別で意外性があり、手元に残したくなるものだと信じています。",
+    "about.body2":
+      "私たちは3Dプリントデザイン、3Dプリント、ゲームデザインに取り組むクリエイティブスタジオで、革新性と遊び心あるコレクタブルな世界観を融合させています。独自のプリントや実験的なビルド、インタラクティブ体験など、アイデアを形あるものにすることを目指しています。",
+    "about.body3":
+      "YouTubeチャンネルでは、その過程を舞台裏から紹介し、コンセプトが想像から現実へと変わる様子をお届けします。学びを共有し、新しい技術を探求し、次に生まれるものをコミュニティと一緒に形作っていきます。",
+    "about.body4":
+      "4leafxはただ作るだけではありません。創造性、好奇心、チャンスが重なる希少な瞬間を見つけることでもあります。",
 };
 
 const langSelect = document.getElementById("lang-select");
