@@ -3,6 +3,16 @@ const translations = {
     "meta.title": "4leafx",
     "nav.games": "Games",
     "nav.about": "About",
+    "about.title": "About us",
+    "about.subtitle": "",
+    "about.body":
+      "At 4leafx, we take inspiration from the rare four-leaf clover - a symbol of faith, hope, love, and luck. Just like finding one, we believe the best ideas feel special, unexpected, and worth holding onto.",
+    "about.body2":
+      "We're a creative studio focused on 3D print design, 3D printing, and game design, blending innovation with playful, collectible worlds. Through our work, we aim to turn ideas into tangible creations - whether that's unique prints, experimental builds, or interactive experiences.",
+    "about.body3":
+      "Our YouTube channel brings you behind the scenes of that process, showcasing how concepts evolve from imagination to reality. Along the way, we share what we learn, explore new techniques, and invite our community to be part of shaping what comes next.",
+    "about.body4":
+      "4leafx is about more than making - it's about discovering those rare moments where creativity, curiosity, and opportunity come together.",
     "nav.portalCta": "Game Portal",
     "about.title": "About us",
     "about.subtitle": "Work in progress.",
@@ -133,6 +143,18 @@ const translations = {
     "hub.footer.home": "Home",
     "hub.footer.mahjong": "Mahjong",
     "hub.footer.bigTwo": "Big Two",
+    "hero.lede":
+      "4leafx is a creative studio exploring 3D printing and game design, focused on making distinctive, collectible ideas come to life. We share our process on YouTube and build alongside a community that helps shape what's next.",
+    "hero.card.body":
+      "A classic tile game of sets and strategy - match, meld, and win.",
+    "about.body":
+      "At 4leafx, we take inspiration from the rare four-leaf clover - a symbol of faith, hope, love, and luck. Just like finding one, we believe the best ideas feel special, unexpected, and worth holding onto.",
+    "about.body2":
+      "We're a creative studio focused on 3D print design, 3D printing, and game design, blending innovation with playful, collectible worlds. Through our work, we aim to turn ideas into tangible creations - whether that's unique prints, experimental builds, or interactive experiences.",
+    "about.body3":
+      "Our YouTube channel brings you behind the scenes of that process, showcasing how concepts evolve from imagination to reality. Along the way, we share what we learn, explore new techniques, and invite our community to be part of shaping what comes next.",
+    "about.body4":
+      "4leafx is about more than making - it's about discovering those rare moments where creativity, curiosity, and opportunity come together.",
   },
   "zh-HK": {
     "meta.title": "4leafx",
@@ -274,8 +296,15 @@ const translations = {
     "hero.card.linkPrimary": "Auf die Wunschliste",
     "hero.card.linkSecondary": "Trailer ansehen",
     "about.title": "Über uns",
-    "about.subtitle": "In Arbeit.",
-    "about.body": "In Arbeit.",
+    "about.subtitle": "",
+    "about.body":
+      "At 4leafx, we take inspiration from the rare four-leaf clover - a symbol of faith, hope, love, and luck. Just like finding one, we believe the best ideas feel special, unexpected, and worth holding onto.",
+    "about.body2":
+      "We're a creative studio focused on 3D print design, 3D printing, and game design, blending innovation with playful, collectible worlds. Through our work, we aim to turn ideas into tangible creations - whether that's unique prints, experimental builds, or interactive experiences.",
+    "about.body3":
+      "Our YouTube channel brings you behind the scenes of that process, showcasing how concepts evolve from imagination to reality. Along the way, we share what we learn, explore new techniques, and invite our community to be part of shaping what comes next.",
+    "about.body4":
+      "4leafx is about more than making - it's about discovering those rare moments where creativity, curiosity, and opportunity come together.",
     "prints.title": "3D-Drucke",
     "prints.subtitle": "Sammelmodelle, Displaystücke und Auftragsarbeiten.",
     "prints.row1.title": "Etsy Shop",
@@ -378,8 +407,15 @@ const translations = {
     "hero.card.linkPrimary": "Añadir a favoritos",
     "hero.card.linkSecondary": "Ver tráiler",
     "about.title": "Sobre nosotros",
-    "about.subtitle": "En progreso.",
-    "about.body": "En progreso.",
+    "about.subtitle": "",
+    "about.body":
+      "At 4leafx, we take inspiration from the rare four-leaf clover - a symbol of faith, hope, love, and luck. Just like finding one, we believe the best ideas feel special, unexpected, and worth holding onto.",
+    "about.body2":
+      "We're a creative studio focused on 3D print design, 3D printing, and game design, blending innovation with playful, collectible worlds. Through our work, we aim to turn ideas into tangible creations - whether that's unique prints, experimental builds, or interactive experiences.",
+    "about.body3":
+      "Our YouTube channel brings you behind the scenes of that process, showcasing how concepts evolve from imagination to reality. Along the way, we share what we learn, explore new techniques, and invite our community to be part of shaping what comes next.",
+    "about.body4":
+      "4leafx is about more than making - it's about discovering those rare moments where creativity, curiosity, and opportunity come together.",
     "prints.title": "Impresiones 3D",
     "prints.subtitle": "Modelos coleccionables, piezas de exhibición y encargos.",
     "prints.row1.title": "Tienda Etsy",
@@ -482,8 +518,15 @@ const translations = {
     "hero.card.linkPrimary": "ウィッシュリストへ",
     "hero.card.linkSecondary": "トレーラーを見る",
     "about.title": "私たちについて",
-    "about.subtitle": "作業中。",
-    "about.body": "作業中。",
+    "about.subtitle": "",
+    "about.body":
+      "At 4leafx, we take inspiration from the rare four-leaf clover - a symbol of faith, hope, love, and luck. Just like finding one, we believe the best ideas feel special, unexpected, and worth holding onto.",
+    "about.body2":
+      "We're a creative studio focused on 3D print design, 3D printing, and game design, blending innovation with playful, collectible worlds. Through our work, we aim to turn ideas into tangible creations - whether that's unique prints, experimental builds, or interactive experiences.",
+    "about.body3":
+      "Our YouTube channel brings you behind the scenes of that process, showcasing how concepts evolve from imagination to reality. Along the way, we share what we learn, explore new techniques, and invite our community to be part of shaping what comes next.",
+    "about.body4":
+      "4leafx is about more than making - it's about discovering those rare moments where creativity, curiosity, and opportunity come together.",
     "prints.title": "3Dプリント",
     "prints.subtitle": "コレクタブルモデル、展示品、カスタム制作。",
     "prints.row1.title": "Etsyショップ",

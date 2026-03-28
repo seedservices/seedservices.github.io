@@ -168,9 +168,11 @@ main {
   padding: 8px 36px 8px 14px;
   border-radius: 999px;
   border: 1px solid var(--border);
-  background: rgba(255, 255, 255, 0.85);
+  background: linear-gradient(135deg, #ffffff 0%, #f6efe6 100%);
   font-weight: 600;
   color: var(--ink);
+  box-shadow: 0 8px 18px rgba(21, 18, 13, 0.08);
+  transition: border-color 160ms ease, box-shadow 160ms ease, transform 160ms ease;
   background-image: linear-gradient(45deg, transparent 50%, var(--muted) 50%),
     linear-gradient(135deg, var(--muted) 50%, transparent 50%),
     linear-gradient(to right, transparent, transparent);
@@ -183,6 +185,13 @@ main {
 .lang-dropdown:focus-visible {
   outline: 2px solid rgba(47, 122, 99, 0.35);
   outline-offset: 2px;
+  border-color: rgba(47, 122, 99, 0.6);
+  box-shadow: 0 12px 24px rgba(47, 122, 99, 0.2);
+}
+
+.lang-dropdown:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 12px 24px rgba(21, 18, 13, 0.12);
 }
 
 .visually-hidden {
