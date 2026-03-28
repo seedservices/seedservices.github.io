@@ -149,6 +149,10 @@ main {
   color: var(--accent);
 }
 
+.nav-cta {
+  white-space: nowrap;
+}
+
 .lang-toggle {
   display: inline-flex;
   gap: 6px;
