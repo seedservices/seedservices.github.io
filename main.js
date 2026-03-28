@@ -453,22 +453,111 @@ const translations = {
     "hub.footer.mahjong": "Mahjong",
     "hub.footer.bigTwo": "Big Two",
   },
+  "ja": {
+    "meta.title": "4leafx",
+    "nav.about": "私たちについて",
+    "nav.portalCta": "ゲームポータル",
+    "nav.prints": "3Dプリント",
+    "nav.media": "メディア",
+    "nav.studios": "5dudes",
+    "nav.contact": "お問い合わせ",
+    "hero.eyebrow": "インディーズスタジオ",
+    "hero.title": "4Leafx Workshopへようこそ。",
+    "hero.lede":
+      "4leafxは遊び心のある世界、コレクタブルなプリント、学びを融合します。リリースをチェックし、制作の裏側を見て、次の展開を一緒に作りましょう。",
+    "hero.ctaPrimary": "ゲームを見る",
+    "hero.ctaSecondary": "コミュニティに参加",
+    "hero.card.pill": "開発中",
+    "hero.card.stat": "毎月新ビルド",
+    "hero.card.title": "MahJong",
+    "hero.card.body":
+      "セットと戦略が鍵のクラシックな牌ゲーム - 揃えて、宣言して、勝利。",
+    "hero.card.linkPrimary": "ウィッシュリストへ",
+    "hero.card.linkSecondary": "トレーラーを見る",
+    "about.title": "私たちについて",
+    "about.subtitle": "作業中。",
+    "about.body": "作業中。",
+    "prints.title": "3Dプリント",
+    "prints.subtitle": "コレクタブルモデル、展示品、カスタム制作。",
+    "prints.row1.title": "Etsyショップ",
+    "prints.row1.body": "即納プリント、限定ドロップ、カスタム注文。",
+    "prints.row1.cta": "作業中",
+    "prints.row2.title": "プリントカタログ",
+    "prints.row2.body": "全モデルのカラー・サイズオプション。",
+    "prints.row2.cta": "作業中",
+    "prints.row3.title": "依頼フォーム",
+    "prints.row3.body": "キャラクター、プロップ、展示品の依頼。",
+    "prints.row3.cta": "作業中",
+    "media.title": "メディア＆コミュニティ",
+    "media.subtitle": "最新情報を追い、制作の様子を見て、つながろう。",
+    "media.card1.title": "YouTubeチャンネル",
+    "media.card1.body": "開発ログ、ローンチトレーラー、ロア解説。",
+    "media.card1.cta": "YouTubeへ",
+    "community.card1.title": "Instagram",
+    "community.card1.body": "写真、リール、作品の紹介。",
+    "community.card1.cta": "Instagramへ",
+    "community.card2.title": "Buy Me a Coffee",
+    "community.card2.body": "4leafxを直接支援し、サポーター更新を受け取ろう。",
+    "community.card2.cta": "スタジオを支援",
+    "community.card3.title": "X (Twitter)",
+    "community.card3.body": "素早い更新、ローンチ、コミュニティ情報。",
+    "community.card3.cta": "Xへ",
+    "studios.title": "別スタジオ",
+    "studios.subtitle": "5dudesは深みのあるタワーディフェンスを制作中。",
+    "studios.card1.title": "5dudes",
+    "studios.card1.body": "開発、アップデート、ロードマップをフォロー。",
+    "studios.card1.cta": "作業中",
+    "studios.card2.title": "5dudes ゲームポータル",
+    "studios.card2.body": "トレーラー、開発ノート、コミュニティ。",
+    "studios.card2.cta": "作業中",
+    "contact.title": "4leafxに連絡",
+    "contact.subtitle": "パートナーシップ、プレス、コラボ向け。",
+    "contact.panel.title": "こんにちは",
+    "contact.panel.body": "アイデア共有、レビュー版の依頼、コラボ提案など。",
+    "contact.panel.cta": "メールする",
+    "footer.note": "© 2026 4leafx. 幸運と集中で制作。",
+    "footer.games": "ゲーム",
+    "footer.youtube": "YouTube",
+    "footer.community": "コミュニティ",
+    "hub.nav.home": "ホーム",
+    "hub.nav.mahjong": "Mahjong",
+    "hub.nav.bigTwo": "Big Two",
+    "hub.eyebrow": "ゲームポータル",
+    "hub.title": "2つのクラシックを4leafxのこだわりで。",
+    "hub.lede":
+      "MahjongとHK Big Twoを遊び、更新を追ってフィードバックを共有。",
+    "hub.ctaPrimary": "ゲームを見る",
+    "hub.ctaSecondary": "4leafxへ戻る",
+    "hub.card.pill": "公開中",
+    "hub.card.stat": "最新アップデート",
+    "hub.card.title": "クラシックな遊び、現代的な体験",
+    "hub.card.body": "スムーズなマッチング、洗練されたビジュアル、コミュニティ主導のイベント。",
+    "hub.card.linkPrimary": "Mahjongの詳細",
+    "hub.card.linkSecondary": "Big Twoの詳細",
+    "hub.mahjong.title": "Mahjong",
+    "hub.mahjong.subtitle": "見やすいUIと柔軟なモードのクラシック麻雀。",
+    "hub.mahjong.card1.title": "Mahjongを遊ぶ",
+    "hub.mahjong.card1.body": "クイックマッチ、プライベート、ランク戦。",
+    "hub.mahjong.card1.cta": "作業中",
+    "hub.mahjong.card2.title": "ルールとバリアント",
+    "hub.mahjong.card2.body": "ハウスルール、点数、地域ルールを確認。",
+    "hub.mahjong.card2.cta": "作業中",
+    "hub.bigTwo.title": "HK Big Two",
+    "hub.bigTwo.subtitle": "伝統的な香港ビッグツーをテンポよく。",
+    "hub.bigTwo.card1.title": "Big Twoを遊ぶ",
+    "hub.bigTwo.card1.body": "素早いゲームとスムーズなマッチング。",
+    "hub.bigTwo.card1.cta": "今すぐ遊ぶ",
+    "hub.bigTwo.card2.title": "ルールを見る",
+    "hub.bigTwo.card2.body": "カード順、コンボ、HKルール。",
+    "hub.bigTwo.card2.cta": "作業中",
+    "hub.footer.note": "© 2026 4leafx. All rights reserved.",
+    "hub.footer.home": "ホーム",
+    "hub.footer.mahjong": "Mahjong",
+    "hub.footer.bigTwo": "Big Two",
+  },
 };
 
-const normalizeLangButtons = () => {
-  const seen = new Set();
-  document.querySelectorAll(".lang-button").forEach((button) => {
-    const lang = button.dataset.lang;
-    if (seen.has(lang)) {
-      button.remove();
-    } else {
-      seen.add(lang);
-    }
-  });
-};
-
-normalizeLangButtons();
-
+const langSelect = document.getElementById("lang-select");
 let langButtons = document.querySelectorAll(".lang-button");
 const i18nElements = document.querySelectorAll("[data-i18n]");
 
@@ -488,6 +577,9 @@ const applyLanguage = (lang) => {
   langButtons.forEach((button) => {
     button.classList.toggle("active", button.dataset.lang === lang);
   });
+  if (langSelect) {
+    langSelect.value = lang;
+  }
 };
 
 langButtons.forEach((button) => {
@@ -495,6 +587,12 @@ langButtons.forEach((button) => {
     applyLanguage(button.dataset.lang);
   });
 });
+
+if (langSelect) {
+  langSelect.addEventListener("change", (event) => {
+    applyLanguage(event.target.value);
+  });
+}
 
 const navLinks = new Map(
   Array.from(document.querySelectorAll(".nav-links a[data-nav]")).map((link) => [
