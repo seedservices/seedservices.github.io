@@ -26,6 +26,7 @@
       </div>
       <nav class="nav-links" aria-label="Primary">
         <a href="#games" data-nav="games" data-i18n="nav.games">Games</a>
+        <a href="#about" data-nav="about" data-i18n="nav.about">About</a>
         <a href="#prints" data-nav="prints" data-i18n="nav.prints">3D Prints</a>
         <a href="#media" data-nav="media" data-i18n="nav.media">Media</a>
         <a href="#studios" data-nav="studios" data-i18n="nav.studios">5dudes</a>
@@ -48,7 +49,9 @@
             drops.
           </p>
           <div class="hero-cta">
-            <a class="button primary" href="#games" data-i18n="hero.ctaPrimary">See the games</a>
+            <a class="button primary" href="./game-hub.html" data-i18n="hero.ctaPrimary"
+              >See the games</a
+            >
             <a class="button ghost" href="#media" data-i18n="hero.ctaSecondary"
               >Join the community</a
             >
@@ -74,6 +77,16 @@
         </div>
       </section>
 
+      <section id="about" class="section alt">
+        <div class="section-header">
+          <h2 data-i18n="about.title">About us</h2>
+          <p data-i18n="about.subtitle">Work in progress.</p>
+        </div>
+        <div class="card">
+          <p data-i18n="about.body">Work in progress.</p>
+        </div>
+      </section>
+
       <section id="games" class="section">
         <div class="section-header">
           <h2 data-i18n="games.title">Games & Releases</h2>
@@ -81,7 +94,7 @@
         </div>
         <div class="card-grid">
           <article class="card">
-            <h3 data-i18n="games.card1.title">Main Game Hub</h3>
+            <h3 data-i18n="games.card1.title">Main Game Portal</h3>
             <p data-i18n="games.card1.body">
               Primary landing page for all titles, updates, and store links.
             </p>
@@ -107,7 +120,14 @@
                 Ready-to-ship prints, limited drops, and custom orders.
               </p>
             </div>
-            <a class="button ghost" href="#" data-i18n="prints.row1.cta">Visit Etsy</a>
+            <a
+              class="button ghost is-disabled"
+              href="#"
+              aria-disabled="true"
+              tabindex="-1"
+              data-i18n="prints.row1.cta"
+              >Work in progress</a
+            >
           </div>
           <div class="link-row">
             <div>
@@ -116,7 +136,14 @@
                 Browse all available models with color and scale options.
               </p>
             </div>
-            <a class="button ghost" href="#" data-i18n="prints.row2.cta">Explore prints</a>
+            <a
+              class="button ghost is-disabled"
+              href="#"
+              aria-disabled="true"
+              tabindex="-1"
+              data-i18n="prints.row2.cta"
+              >Work in progress</a
+            >
           </div>
           <div class="link-row">
             <div>
@@ -125,7 +152,14 @@
                 Request custom characters, props, or display pieces.
               </p>
             </div>
-            <a class="button ghost" href="#" data-i18n="prints.row3.cta">Start a request</a>
+            <a
+              class="button ghost is-disabled"
+              href="#"
+              aria-disabled="true"
+              tabindex="-1"
+              data-i18n="prints.row3.cta"
+              >Work in progress</a
+            >
           </div>
         </div>
       </section>
@@ -139,7 +173,17 @@
         </div>
         <div class="card-grid">
           <article class="card">
-            <h3 data-i18n="media.card1.title">YouTube Channel</h3>
+            <h3 class="media-title">
+              <span class="media-icon media-icon-youtube" aria-hidden="true">
+                <svg viewBox="0 0 24 24" role="presentation">
+                  <path
+                    fill="currentColor"
+                    d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.6 3.6 12 3.6 12 3.6s-7.6 0-9.4.5A3 3 0 0 0 .5 6.2 31.7 31.7 0 0 0 0 12a31.7 31.7 0 0 0 .5 5.8 3 3 0 0 0 2.1 2.1c1.8.5 9.4.5 9.4.5s7.6 0 9.4-.5a3 3 0 0 0 2.1-2.1 31.7 31.7 0 0 0 .5-5.8 31.7 31.7 0 0 0-.5-5.8ZM9.75 15.02V8.98L15.5 12l-5.75 3.02Z"
+                  />
+                </svg>
+              </span>
+              <span data-i18n="media.card1.title">YouTube Channel</span>
+            </h3>
             <p data-i18n="media.card1.body">
               Dev logs, launch trailers, and lore breakdowns.
             </p>
@@ -153,7 +197,17 @@
             >
           </article>
           <article class="card">
-            <h3 data-i18n="community.card1.title">Instagram</h3>
+            <h3 class="media-title">
+              <span class="media-icon media-icon-instagram" aria-hidden="true">
+                <svg viewBox="0 0 24 24" role="presentation">
+                  <path
+                    fill="currentColor"
+                    d="M7 3h10a4 4 0 0 1 4 4v10a4 4 0 0 1-4 4H7a4 4 0 0 1-4-4V7a4 4 0 0 1 4-4Zm5 4.5a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9Zm6.25-1.75a1.25 1.25 0 1 0 0 2.5 1.25 1.25 0 0 0 0-2.5Z"
+                  />
+                </svg>
+              </span>
+              <span data-i18n="community.card1.title">Instagram</span>
+            </h3>
             <p data-i18n="community.card1.body">Photo updates, reels, and product showcases.</p>
             <a
               class="button small"
@@ -165,7 +219,17 @@
             >
           </article>
           <article class="card">
-            <h3 data-i18n="community.card2.title">Buy Me a Coffee</h3>
+            <h3 class="media-title">
+              <span class="media-icon media-icon-coffee" aria-hidden="true">
+                <svg viewBox="0 0 24 24" role="presentation">
+                  <path
+                    fill="currentColor"
+                    d="M3 7h14v6a5 5 0 0 1-5 5H8a5 5 0 0 1-5-5V7Zm14 1h2a3 3 0 0 1 0 6h-2V8Z"
+                  />
+                </svg>
+              </span>
+              <span data-i18n="community.card2.title">Buy Me a Coffee</span>
+            </h3>
             <p data-i18n="community.card2.body">
               Support 4leafx directly and unlock supporter updates.
             </p>
@@ -179,7 +243,17 @@
             >
           </article>
           <article class="card">
-            <h3 data-i18n="community.card3.title">X (Twitter)</h3>
+            <h3 class="media-title">
+              <span class="media-icon media-icon-x" aria-hidden="true">
+                <svg viewBox="0 0 24 24" role="presentation">
+                  <path
+                    fill="currentColor"
+                    d="M3 3h4.2l4.6 5.8L16.4 3H21l-7.2 8.1L21.3 21H17l-5-6.2L6.7 21H2l7.5-8.7L3 3Z"
+                  />
+                </svg>
+              </span>
+              <span data-i18n="community.card3.title">X (Twitter)</span>
+            </h3>
             <p data-i18n="community.card3.body">Quick updates, launches, and community shoutouts.</p>
             <a
               class="button small"
@@ -206,14 +280,28 @@
             <p data-i18n="studios.card1.body">
               Follow development, updates, and the roadmap for the new tower defence release.
             </p>
-            <a class="button small" href="#" data-i18n="studios.card1.cta">Visit 5dudes</a>
+            <a
+              class="button small is-disabled"
+              href="#"
+              aria-disabled="true"
+              tabindex="-1"
+              data-i18n="studios.card1.cta"
+              >Work in progress</a
+            >
           </article>
           <article class="card">
-            <h3 data-i18n="studios.card2.title">5dudes Game Hub</h3>
+            <h3 data-i18n="studios.card2.title">5dudes Game Portal</h3>
             <p data-i18n="studios.card2.body">
               Watch trailers, read dev notes, and join the player community.
             </p>
-            <a class="button small" href="#" data-i18n="studios.card2.cta">Explore 5dudes</a>
+            <a
+              class="button small is-disabled"
+              href="#"
+              aria-disabled="true"
+              tabindex="-1"
+              data-i18n="studios.card2.cta"
+              >Work in progress</a
+            >
           </article>
         </div>
       </section>

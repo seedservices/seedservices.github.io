@@ -2,6 +2,10 @@ const translations = {
   en: {
     "meta.title": "4leafx",
     "nav.games": "Games",
+    "nav.about": "About",
+    "about.title": "About us",
+    "about.subtitle": "Work in progress.",
+    "about.body": "Work in progress.",
     "nav.prints": "3D Prints",
     "nav.media": "Media",
     "nav.studios": "5dudes",
@@ -22,7 +26,10 @@ const translations = {
     "hero.card.linkSecondary": "Watch the trailer",
     "games.title": "Games & Releases",
     "games.subtitle": "Featured links for players, press, and community hubs.",
-    "games.card1.title": "Main Game Hub",
+    "about.title": "About us",
+    "about.subtitle": "Work in progress.",
+    "about.body": "Work in progress.",
+    "games.card1.title": "Main Game Portal",
     "games.card1.body": "Primary landing page for all titles, updates, and store links.",
     "games.card1.cta": "Open the hub",
     "games.card2.title": "New Launch",
@@ -35,13 +42,13 @@ const translations = {
     "prints.subtitle": "Collectible models, display pieces, and custom commissions.",
     "prints.row1.title": "Etsy Shop",
     "prints.row1.body": "Ready-to-ship prints, limited drops, and custom orders.",
-    "prints.row1.cta": "Visit Etsy",
+    "prints.row1.cta": "Work in progress",
     "prints.row2.title": "Print Catalog",
     "prints.row2.body": "Browse all available models with color and scale options.",
-    "prints.row2.cta": "Explore prints",
+    "prints.row2.cta": "Work in progress",
     "prints.row3.title": "Commission Form",
     "prints.row3.body": "Request custom characters, props, or display pieces.",
-    "prints.row3.cta": "Start a request",
+    "prints.row3.cta": "Work in progress",
     "media.title": "Media & Community",
     "media.subtitle": "Follow our updates, watch builds, and stay connected across platforms.",
     "media.card1.title": "YouTube Channel",
@@ -59,10 +66,10 @@ const translations = {
     "studios.card1.title": "5dudes",
     "studios.card1.body":
       "Follow development, updates, and the roadmap for the new tower defence release.",
-    "studios.card1.cta": "Visit 5dudes",
-    "studios.card2.title": "5dudes Game Hub",
+    "studios.card1.cta": "Work in progress",
+    "studios.card2.title": "5dudes Game Portal",
     "studios.card2.body": "Watch trailers, read dev notes, and join the player community.",
-    "studios.card2.cta": "Explore 5dudes",
+    "studios.card2.cta": "Work in progress",
     "community.title": "Community",
     "community.subtitle": "Meet players, share feedback, and support ongoing development.",
     "community.card1.title": "Instagram",
@@ -86,7 +93,7 @@ const translations = {
     "hub.nav.home": "Home",
     "hub.nav.mahjong": "Mahjong",
     "hub.nav.bigTwo": "Big Two",
-    "hub.eyebrow": "Game Hub",
+    "hub.eyebrow": "Game Portal",
     "hub.title": "Two classic titles, built with 4leafx care.",
     "hub.lede":
       "Play our Mahjong and traditional HK Big Two games, keep up with updates, and share feedback with the team.",
@@ -102,10 +109,10 @@ const translations = {
     "hub.mahjong.subtitle": "Classic mahjong with clean table UI and flexible play modes.",
     "hub.mahjong.card1.title": "Play Mahjong",
     "hub.mahjong.card1.body": "Jump into quick matches, private rooms, or ranked play.",
-    "hub.mahjong.card1.cta": "Play now",
+    "hub.mahjong.card1.cta": "Work in progress",
     "hub.mahjong.card2.title": "Rules & Variants",
     "hub.mahjong.card2.body": "Review house rules, scoring options, and regional variants.",
-    "hub.mahjong.card2.cta": "Read rules",
+    "hub.mahjong.card2.cta": "Work in progress",
     "hub.bigTwo.title": "HK Big Two",
     "hub.bigTwo.subtitle": "Traditional Hong Kong Big Two with quick rounds and social features.",
     "hub.bigTwo.card1.title": "Play Big Two",
@@ -113,7 +120,7 @@ const translations = {
     "hub.bigTwo.card1.cta": "Play now",
     "hub.bigTwo.card2.title": "Learn the rules",
     "hub.bigTwo.card2.body": "Understand the card order, combos, and HK house rules.",
-    "hub.bigTwo.card2.cta": "View rules",
+    "hub.bigTwo.card2.cta": "Work in progress",
     "hub.footer.note": "© 2026 4leafx. All rights reserved.",
     "hub.footer.home": "Home",
     "hub.footer.mahjong": "Mahjong",
@@ -121,6 +128,7 @@ const translations = {
   },
   "zh-HK": {
     "meta.title": "4leafx",
+    "nav.about": "About",
     "nav.games": "遊戲",
     "nav.prints": "3D 列印",
     "nav.media": "媒體",
@@ -141,7 +149,7 @@ const translations = {
     "hero.card.linkSecondary": "觀看預告片",
     "games.title": "遊戲與作品",
     "games.subtitle": "玩家、媒體與社群的主要連結入口。",
-    "games.card1.title": "遊戲總入口",
+    "games.card1.title": "遊戲入口",
     "games.card1.body": "所有作品、更新與商店連結的主頁。",
     "games.card1.cta": "前往主頁",
     "games.card2.title": "最新發佈",
@@ -177,7 +185,7 @@ const translations = {
     "studios.card1.title": "5dudes",
     "studios.card1.body": "追蹤最新開發、更新與塔防新作進度。",
     "studios.card1.cta": "前往 5dudes",
-    "studios.card2.title": "5dudes 遊戲頁",
+    "studios.card2.title": "5dudes 遊戲入口",
     "studios.card2.body": "觀看預告、閱讀開發筆記並加入玩家社群。",
     "studios.card2.cta": "探索 5dudes",
     "community.title": "社群",
@@ -203,7 +211,7 @@ const translations = {
     "hub.nav.home": "主頁",
     "hub.nav.mahjong": "麻雀",
     "hub.nav.bigTwo": "鋤大D",
-    "hub.eyebrow": "遊戲總覽",
+    "hub.eyebrow": "遊戲入口",
     "hub.title": "兩款經典遊戲，以 4leafx 的用心呈現。",
     "hub.lede": "暢玩麻雀與港式鋤大D，追蹤更新並與團隊交流。",
     "hub.ctaPrimary": "探索遊戲",
@@ -218,10 +226,10 @@ const translations = {
     "hub.mahjong.subtitle": "清晰桌面介面與多種遊玩模式。",
     "hub.mahjong.card1.title": "進入麻雀",
     "hub.mahjong.card1.body": "快速對戰、私人房間或排名賽。",
-    "hub.mahjong.card1.cta": "立即遊玩",
+    "hub.mahjong.card1.cta": "施工中",
     "hub.mahjong.card2.title": "規則與玩法",
     "hub.mahjong.card2.body": "查看計分方式、玩法與區域規則。",
-    "hub.mahjong.card2.cta": "查看規則",
+    "hub.mahjong.card2.cta": "施工中",
     "hub.bigTwo.title": "港式鋤大D",
     "hub.bigTwo.subtitle": "傳統港式鋤大D，節奏明快並加入社交功能。",
     "hub.bigTwo.card1.title": "進入鋤大D",
@@ -229,7 +237,7 @@ const translations = {
     "hub.bigTwo.card1.cta": "立即遊玩",
     "hub.bigTwo.card2.title": "了解規則",
     "hub.bigTwo.card2.body": "牌序、牌型組合與港式玩法說明。",
-    "hub.bigTwo.card2.cta": "查看規則",
+    "hub.bigTwo.card2.cta": "施工中",
     "hub.footer.note": "© 2026 4leafx。版權所有。",
     "hub.footer.home": "主頁",
     "hub.footer.mahjong": "麻雀",
@@ -276,6 +284,40 @@ const setActiveNav = (id) => {
   });
 };
 
+const setLinkTargets = () => {
+  const links = document.querySelectorAll("a[href]");
+
+  links.forEach((link) => {
+    const href = link.getAttribute("href");
+    if (!href || href.startsWith("#") || href.startsWith("mailto:") || href.startsWith("tel:")) {
+      link.removeAttribute("target");
+      link.removeAttribute("rel");
+      return;
+    }
+
+    if (href.startsWith("http://") || href.startsWith("https://")) {
+      try {
+        const url = new URL(href);
+        const isInternal = url.hostname === "4leafx.com" || url.hostname.endsWith(".4leafx.com");
+
+        if (isInternal) {
+          link.removeAttribute("target");
+          link.removeAttribute("rel");
+        } else {
+          link.setAttribute("target", "_blank");
+          link.setAttribute("rel", "noreferrer noopener");
+        }
+      } catch {
+        link.removeAttribute("target");
+        link.removeAttribute("rel");
+      }
+    } else {
+      link.removeAttribute("target");
+      link.removeAttribute("rel");
+    }
+  });
+};
+
 const sections = document.querySelectorAll("main section[id]");
 const sectionObserver = new IntersectionObserver(
   (entries) => {
@@ -294,3 +336,4 @@ const sectionObserver = new IntersectionObserver(
 sections.forEach((section) => sectionObserver.observe(section));
 
 applyLanguage("en");
+setLinkTargets();
